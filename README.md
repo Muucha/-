@@ -1,7 +1,8 @@
 # MiraiMonozukuri2020
 ミライものづくり学習交流会IoT 2020 のページです。
 
-講師：岡田宏之（おかだ　ひろゆき）(^_-)-☆
+・タイピング練習
+http://typing.sakura.ne.jp/sushida/
 
 ・Jamboard (ホワイトボード)
 https://jamboard.google.com/d/1jyDcFfQWpC7PTt6zrAg4JtMCOpiCWvaiwmTHu4tJ-ls/edit?usp=sharing

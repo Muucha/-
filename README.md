@@ -39,8 +39,11 @@ https://www.lego.com/en-us/ldd
 
 ※毎日13:00～13:10 タッチタイピング練習
 
-★MakeCodeのプログラムサンプル
+
+# MakeCodeのサンプルプログラム
+
 ・スマートシティ（家側）
 https://github.com/muucha/smartcity_homes
+
 ・スマートシティ（センター側）
 https://github.com/muucha/smartcity_center

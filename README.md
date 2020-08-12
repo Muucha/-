@@ -18,7 +18,7 @@
 ・TinkerCAD(haidra5460のギャラリー)
  https://www.tinkercad.com/users/ktcTncyexy0-haidra5460
 
-・Thingiverse (シンギバース)
+・Thingiverse (シンギバース)ブロックのサンプル
  https://www.thingiverse.com/thing:39343
 
 ---

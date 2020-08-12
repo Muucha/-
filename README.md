@@ -17,7 +17,7 @@ https://www.lego.com/en-us/ldd
 https://www.tinkercad.com/dashboard
 
 
-# ☆彡　スケジュール（ざっくりした）
+## ☆彡　スケジュール（ざっくりした）
 
 8/11(火曜日）
 　二日目になっちゃったけど自己紹介(^^)/
@@ -42,7 +42,7 @@ https://www.tinkercad.com/dashboard
 ※毎日13:00～13:10 タッチタイピング練習
 
 
-# MakeCodeのサンプルプログラム
+## MakeCodeのサンプルプログラム
 
 ・スマートシティ（家側）
 https://github.com/muucha/smartcity_homes

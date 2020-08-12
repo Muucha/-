@@ -15,12 +15,6 @@
 ・TinkerCAD
  https://www.tinkercad.com/dashboard
 
-・TinkerCAD(haidra5460のギャラリー)
- https://www.tinkercad.com/users/ktcTncyexy0-haidra5460
-
-・Thingiverse (シンギバース)ブロックのサンプル
- https://www.thingiverse.com/thing:39343
-
 ---
 ## ☆彡　スケジュール（ざっくりした）
 
@@ -54,3 +48,12 @@ https://github.com/muucha/smartcity_homes
 
 ・スマートシティ（センター側）
 https://github.com/muucha/smartcity_center
+
+---
+## 3Dデータのサンプル
+
+・TinkerCAD(haidra5460のギャラリー)
+ https://www.tinkercad.com/users/ktcTncyexy0-haidra5460
+
+・Thingiverse (シンギバース)ブロックのサンプル
+ https://www.thingiverse.com/thing:39343

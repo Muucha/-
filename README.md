@@ -10,22 +10,24 @@ https://jamboard.google.com/d/1jyDcFfQWpC7PTt6zrAg4JtMCOpiCWvaiwmTHu4tJ-ls/edit?
 ・MakeCode
 https://makecode.microbit.org/
 
-・TinkerCad
-https://www.tinkercad.com/dashboard
-
 ・LEGO Digital Designer
 https://www.lego.com/en-us/ldd
 
-☆彡　予定内容　（ざっくりした）
+・TinkerCAD
+https://www.tinkercad.com/dashboard
+
+
+# ☆彡　スケジュール（ざっくりした）
+
 8/11(火曜日）
 　二日目になっちゃったけど自己紹介(^^)/
 　13:00～13:10 タッチタイピング練習
-　13:10～15:00 micro:bitとロボットカーでプログラミング（ライントレース）
-　15:00～16:00 レゴのスマートホーム組み立て
+　13:10～16:00 micro:bitとロボットカーでプログラミング（ライントレース）
 
 8/12(水曜日)
-　13:10～15:00 スマートホームのプログラミング（自動ドア、フルカラーLED照明）
-　15:00～16:00 スマートシティのプログラミングに挑戦（Bluetoothで連携）
+　13:10～14:00 レゴのスマートホーム組み立て
+　14:00～15:30スマートホームのプログラミング（自動ドア、フルカラーLED照明）
+　15:30～16:00 スマートシティのプログラミングに挑戦（Bluetoothで連携）
 
 8/13(木曜日)
 　13:10～14:00 TinkerCADの説明と練習

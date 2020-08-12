@@ -2,21 +2,24 @@
 ミライものづくり学習交流会IoT 2020 のページです。
 
 ・タイピング練習
-http://typing.sakura.ne.jp/sushida/
+ http://typing.sakura.ne.jp/sushida/
 
 ・[Jamboard (ホワイトボード)](https://jamboard.google.com/d/1jyDcFfQWpC7PTt6zrAg4JtMCOpiCWvaiwmTHu4tJ-ls/edit?usp=sharing)
 
 ・MakeCode
-https://makecode.microbit.org/
+ https://makecode.microbit.org/
 
 ・LEGO Digital Designer
-https://www.lego.com/en-us/ldd
+ https://www.lego.com/en-us/ldd
 
 ・TinkerCAD
-https://www.tinkercad.com/dashboard
+ https://www.tinkercad.com/dashboard
+
+・TinkerCAD(haidra5460のギャラリー)
+ https://www.tinkercad.com/users/ktcTncyexy0-haidra5460
 
 ・Thingiverse (シンギバース)
-https://www.thingiverse.com/thing:39343
+ https://www.thingiverse.com/thing:39343
 
 ---
 ## ☆彡　スケジュール（ざっくりした）

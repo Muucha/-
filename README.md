@@ -15,6 +15,9 @@ https://www.lego.com/en-us/ldd
 ・TinkerCAD
 https://www.tinkercad.com/dashboard
 
+・Thingiverse (シンギバース)
+https://www.thingiverse.com/thing:39343
+
 ---
 ## ☆彡　スケジュール（ざっくりした）
 

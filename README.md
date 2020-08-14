@@ -45,15 +45,6 @@
 ※毎日13:00～13:10 タッチタイピング練習
 
 ---
-## MakeCodeのサンプルプログラム
-
-・スマートシティ（家側）
-https://github.com/muucha/smartcity_homes
-
-・スマートシティ（センター側）
-https://github.com/muucha/smartcity_center
-
----
 ## 3Dデータのサンプル
 
 ・TinkerCAD(haidra5460のギャラリー)
@@ -61,3 +52,20 @@ https://github.com/muucha/smartcity_center
 
 ・Thingiverse (シンギバース)ブロックのサンプル
  https://www.thingiverse.com/thing:39343
+ 
+---
+## MakeCodeのサンプルプログラム
+
+・スマートシティ（家）
+https://github.com/muucha/smartcity_homes
+
+・スマートシティ（センター）
+https://github.com/muucha/smartcity_center
+
+・スマートシティ（地震計）
+https://github.com/Muucha/smartcity_seismometer
+
+・スマートシティ（救急車）
+https://github.com/Muucha/smartcity_ambulance
+
+

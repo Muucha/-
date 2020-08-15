@@ -1,7 +1,7 @@
 # MiraiMonozukuri2020
 ミライものづくり学習交流会IoT 2020 のページです。
-
-
+  
+  
 ## スケジュール
 
 **8/10(月曜日)**  
@@ -33,8 +33,8 @@
 **8/15(土曜日)**  
 　13:00～13:10 折鶴を折ろう    
 　13:10～16:00 みんなでスマートシティをつくろう  
-
-
+  
+  
 ## 3Dデータのサンプル
 
 ・TinkerCAD(haidra5460のギャラリー)
@@ -57,8 +57,8 @@ https://github.com/Muucha/smartcity_seismometer
 
 ・スマートシティ（救急車）
 https://github.com/Muucha/smartcity_ambulance
-
-
+  
+  
 ## リンク集
 
 ・タイピング練習

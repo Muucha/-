@@ -1,23 +1,7 @@
 # MiraiMonozukuri2020
 ミライものづくり学習交流会IoT 2020 のページです。
 
-・タイピング練習
- http://typing.sakura.ne.jp/sushida/
 
-・[Jamboard (ホワイトボード)](https://jamboard.google.com/d/1jyDcFfQWpC7PTt6zrAg4JtMCOpiCWvaiwmTHu4tJ-ls/edit?usp=sharing)
-
-・MakeCode
- https://makecode.microbit.org/
- 
-・[micro Maqueen (micro:bit用ロボットカーキット)](https://wiki.dfrobot.com/micro_Maqueen_for_micro_bit_SKU_ROB0148-E)
-
-・LEGO Digital Designer
- https://www.lego.com/en-us/ldd
-
-・TinkerCAD
- https://www.tinkercad.com/dashboard
-
----
 ## ☆彡　スケジュール（ざっくりした）
 
 **8/10(月曜日)**  
@@ -52,7 +36,7 @@
 
 ※毎日13:00～13:10 タッチタイピング練習
 
----
+
 ## 3Dデータのサンプル
 
 ・TinkerCAD(haidra5460のギャラリー)
@@ -61,7 +45,7 @@
 ・Thingiverse (シンギバース)ブロックのサンプル
  https://www.thingiverse.com/thing:39343
  
----
+
 ## MakeCodeのサンプルプログラム
 
 ・スマートシティ（家）
@@ -76,4 +60,22 @@ https://github.com/Muucha/smartcity_seismometer
 ・スマートシティ（救急車）
 https://github.com/Muucha/smartcity_ambulance
 
+
+## リンク集
+
+・タイピング練習
+ http://typing.sakura.ne.jp/sushida/
+
+・[Jamboard (ホワイトボード)](https://jamboard.google.com/d/1jyDcFfQWpC7PTt6zrAg4JtMCOpiCWvaiwmTHu4tJ-ls/edit?usp=sharing)
+
+・MakeCode
+ https://makecode.microbit.org/
+ 
+・[micro Maqueen (micro:bit用ロボットカーキット)](https://wiki.dfrobot.com/micro_Maqueen_for_micro_bit_SKU_ROB0148-E)
+
+・LEGO Digital Designer
+ https://www.lego.com/en-us/ldd
+
+・TinkerCAD
+ https://www.tinkercad.com/dashboard
 

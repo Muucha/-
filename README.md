@@ -2,7 +2,7 @@
 ミライものづくり学習交流会IoT 2020 のページです。
   
   
-## スケジュール
+### スケジュール
 
 **8/10(月曜日)**  
 　13:00～13:10 全体説明  
@@ -35,7 +35,7 @@
 　13:10～16:00 みんなでスマートシティをつくろう  
   
   
-## 3Dデータのサンプル
+### 3Dデータのサンプル
 
 ・TinkerCAD(haidra5460のギャラリー)
  https://www.tinkercad.com/users/ktcTncyexy0-haidra5460
@@ -44,7 +44,7 @@
  https://www.thingiverse.com/thing:39343
  
 
-## MakeCodeのサンプルプログラム
+### MakeCodeのサンプルプログラム
 
 ・スマートシティ（家）
 https://github.com/muucha/smartcity_homes
@@ -59,7 +59,7 @@ https://github.com/Muucha/smartcity_seismometer
 https://github.com/Muucha/smartcity_ambulance
   
   
-## リンク集
+### リンク集
 
 ・タイピング練習
  http://typing.sakura.ne.jp/sushida/

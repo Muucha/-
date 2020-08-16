@@ -96,8 +96,5 @@ https://www.switch-science.com/catalog/5938/
 
 ・サーボモーター [KittenBot® 270° Gray Geek Servo with Wire for Lego/Micro:bit Smart Car](https://www.banggood.com/KittenBot-4Pcs-270-Gray-Geek-Servo-with-Wire-for-LegoMicrobit-Smart-Car-p-1325386.html?gmcCountry=JP&currency=JPY&createTmp=1&utm_source=googleshopping&utm_medium=cpc_bgs&utm_content=lijing&utm_campaign=ssc-jp-all-0609&ad_id=440535869749&gclid=CjwKCAjwj975BRBUEiwA4whRB-Chi57sudVLtwmUfz4t1kzbYXy1FMhvWO1Cl5oyssng4_F3mQiE9RoCGRkQAvD_BwE&cur_warehouse=CN)  
 
-・micro:bit用ロボットカーキット Micro: Maqueen
-https://www.switch-science.com/catalog/4969/  
-
 ・フルカラーLEDテープ（Neopixel）
 https://switch-education.com/products/bitpak-fullcolor-serial-led-tape/  

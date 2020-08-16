@@ -46,6 +46,12 @@
 
 ## MakeCodeのサンプルプログラム
 
+・ライントレーサー（トレーラー）
+https://github.com/muucha/maqueen_line-tracer_trailing
+
+・ライントレーサー（ウェイト・アンド・ゴー）
+https://github.com/muucha/maqueen_line-tracer_waitgo
+
 ・スマートシティ（家）
 https://github.com/muucha/smartcity_homes
 
@@ -53,12 +59,12 @@ https://github.com/muucha/smartcity_homes
 https://github.com/muucha/smartcity_center
 
 ・スマートシティ（地震計）
-https://github.com/Muucha/smartcity_seismometer
+https://github.com/muucha/smartcity_seismometer
 
 ・スマートシティ（救急車）
-https://github.com/Muucha/smartcity_ambulance
-  
-  
+https://github.com/muucha/smartcity_ambulance
+
+
 ## リンク集
 
 ・タイピング練習

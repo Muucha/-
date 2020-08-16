@@ -82,6 +82,9 @@ https://github.com/muucha/smartcity_ambulance
 
 ・TinkerCAD
  https://www.tinkercad.com/dashboard
+ 
+ ・TOYOTA Woven Cityイメージビデオ（long ver）
+ https://youtu.be/jh7FHx8M3G0  
 
 
 ## 主な部品

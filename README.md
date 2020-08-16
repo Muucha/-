@@ -98,3 +98,6 @@ https://www.switch-science.com/catalog/5938/
 
 ・フルカラーLEDテープ（Neopixel）
 https://switch-education.com/products/bitpak-fullcolor-serial-led-tape/  
+
+・レゴ（LEGO）
+https://www.lego.com  
